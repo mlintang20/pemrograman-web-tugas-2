@@ -1,4 +1,4 @@
-# Pemrograman Web Tugas 1
+# Pemrograman Web Tugas 2
 
 ### Nama : Muhammad Lintang Panjerino
 
